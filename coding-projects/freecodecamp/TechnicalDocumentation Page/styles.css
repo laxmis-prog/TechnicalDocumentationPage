@@ -1,7 +1,8 @@
 #navbar {
   position: fixed;
+  
 }
 
 #navbar a {
-  display: block;
+  display: flex;
 }
