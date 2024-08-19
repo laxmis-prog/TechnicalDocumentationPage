@@ -2,10 +2,12 @@
   position: fixed;
   left: 0
   
+  
 }
 
 #navbar a {
   display: flex;
+  margin-bottom: 20px;
 }
 
 #main-doc {
