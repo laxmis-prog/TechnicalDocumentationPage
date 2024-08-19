@@ -7,3 +7,7 @@
 #navbar a {
   display: flex;
 }
+
+#main-doc {
+   margin-left: 400px;
+}
