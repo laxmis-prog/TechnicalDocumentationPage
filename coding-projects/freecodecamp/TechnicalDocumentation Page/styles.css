@@ -1,8 +1,11 @@
 #navbar {
   position: fixed;
   left: 0
-  
-  
+}
+
+#navbar header {
+  margin-bottom: 60;
+  font-size: 40px;
 }
 
 #navbar a {
